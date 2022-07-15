@@ -1,0 +1,10 @@
+num = int(input("몇 단을 출력할까요? : "))
+
+print("%d * 2 = %d" %(num, num * 2))
+print("%d * 3 = %d" %(num, num * 3))
+print("%d * 4 = %d" %(num, num * 4))
+print("%d * 5 = %d" %(num, num * 5))
+print("%d * 6 = %d" %(num, num * 6))
+print("%d * 7 = %d" %(num, num * 7))
+print("%d * 8 = %d" %(num, num * 8))
+print("%d * 9 = %d" %(num, num * 9))
